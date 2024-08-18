@@ -14,3 +14,14 @@
     text-align: center;
     padding-top: 20px;
 }
+.feed{
+    width: 100%;
+    height: 100vh;
+    color: rgb(145, 145, 237);
+    font-weight: 700;
+    font-size: 40px;
+    background-color: gray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
